@@ -1,0 +1,65 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.h5
+*.hdf5
+*.onnx
+*.pkl
+*.pickle
+
+# Locally cloned third-party repositories
+/third_party/sam2/
+
+# Repository-local runtime assets
+/datasets/
+/downloads/
+/weights/
+/workdir/
+/inference_outputs/
+
+# Data files
+*.json
+*.csv
+*.tsv
+*.parquet
+*.arrow
+
+# Large files
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & outputs
+*.log
+wandb/
+runs/
+outputs/
+results/
+
+# Environment
+.env
+*.env
+venv/
+.venv/
+.venv*/
+
+# OS
+.DS_Store
+Thumbs.db
