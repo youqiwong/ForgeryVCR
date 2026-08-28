@@ -2,7 +2,7 @@
 
 # ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization
 
-### 🔥 ACM Multimedia 2026
+### 🎉 ACM Multimedia 2026 - $\color{red}{\textsf{Oral}}$
 
 **Youqi Wang<sup>1,2&#42;†</sup> · Shen Chen<sup>2&#42;♠</sup> ·
 Haowei Wang<sup>2</sup> · Rongxuan Peng<sup>1</sup> ·
@@ -26,6 +26,13 @@ Shouhong Ding<sup>2✉</sup>**
 [Evaluation data preparation](#3-model-and-evaluation-data)
 
 </div>
+
+## 📰 News
+
+### 🎉 ACM Multimedia 2026 - $\color{red}{\textsf{Oral}}$
+
+- **[2026.08.28] 🔥** The [arXiv paper](https://arxiv.org/abs/2602.14098), inference and evaluation code, and [online Demo](https://huggingface.co/spaces/youqiwong/ForgeryVCR-Demo) are now publicly available.
+- **[2026.08.28] 🎉🎉🎉 ForgeryVCR has been accepted to ACM Multimedia 2026 as an Oral paper!**
 
 > **Release status.** This release contains the inference, forensic-map
 > preparation, SAM2 mask generation, and evaluation pipeline. Training code
